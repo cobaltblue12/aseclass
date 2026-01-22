@@ -1,5 +1,6 @@
 # Practice for GitHub
 
+- This line is added in Lesson 6.
 - This line is added in Lesson 4 (main).
 - This line is added in Lesson 2.
 - Create GitHub account
